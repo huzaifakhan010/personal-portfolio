@@ -1,8 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
 import { AiOutlineMenu,AiOutlineClose } from 'react-icons/ai';
-import { FaLaptopCode } from "react-icons/fa";
-import { TiCodeOutline } from "react-icons/ti";
 
 
 

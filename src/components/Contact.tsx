@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsMailboxFlag } from "react-icons/bs";
-import { BsFillTelephoneFill } from "react-icons/bs"
+
 
 const Contact = () => {
   return (
